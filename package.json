@@ -1,0 +1,14 @@
+{
+  "name": "pika-bot-panel",
+  "version": "1.0.0",
+  "description": "Minecraft Bot Control Panel for PikaNetwork",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mineflayer": "^4.20.0",
+    "ws": "^8.17.0"
+  }
+}
